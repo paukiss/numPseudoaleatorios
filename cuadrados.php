@@ -19,7 +19,7 @@ include "js/cuadradisMedios.php"
 
 <div class="d-flex justify-content-around">
   <div class="p-2">
-	  <h1 class="text-slim text-default">Generación de Números Pseudoaleatorios </h1>
+	  <h1 class="text-slim text-default">Cuadrados Medios</h1>
   </div>
   
 	<div class="p-2">

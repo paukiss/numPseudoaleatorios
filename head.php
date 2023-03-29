@@ -14,9 +14,9 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
 
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <link href="https://nightly.datatables.net/css/jquery.dataTables.css" rel="stylesheet" type="text/css" />
-    <script src="https://nightly.datatables.net/js/jquery.dataTables.js"></script>
+    <script src="dataTables/jquery-1.11.3.min.js"></script>
+    <link href="dataTables/jquery.dataTables.css" rel="stylesheet" type="text/css" />
+    <script src="dataTables/jquery.dataTables.js"></script>
 
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
     
