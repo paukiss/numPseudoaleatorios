@@ -1,7 +1,8 @@
 <html>
 <head>
-	<title>workflow</title>
-	
+	<title>Generacion Numeros</title>
+	<link rel="icon" href="assets/logo.png" type="image/x-icon">
+
     
 	<link rel="stylesheet" href="style/bootstrap.min.css" >
 	<link rel="stylesheet" href="style/bootstrap.css" >
